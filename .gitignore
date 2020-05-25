@@ -1,0 +1,4 @@
+*.db
+.spyproject/
+*.log
+*.json
